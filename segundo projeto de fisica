@@ -1,0 +1,179 @@
+<html lang="pt-br">
+</html>
+
+
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+    <title>MI AMOR</title>
+</head>
+
+
+<body>
+
+
+<header>AMOR DE MI VIDA</header>
+
+
+<section class="chamada">
+
+
+<div class="chamada-texto">
+
+
+<h1>QUE PASA!</h1>
+<p>#Gumball</p>
+
+
+</div>
+<div>
+
+
+<iframe width="350" height="200" src="https://www.youtube.com/embed/noF4Glkhu_s"
+title="O sentido da vida | O Incrível Mundo de Gumball | Cartoon Network" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+</div>
+
+
+</section>
+
+
+</body>
+
+
+<section class="categoria">
+    <h2>PARA SE DISTRAIR</h2>
+
+
+    <div class="categoria-videos">
+
+
+        <a href="https://img.youtube.com/watch?v=p0WTAyqoUz8">
+            <img src="https://img.youtube.com/vi/p0WTAyqoUz8/maxresdefault.jpg" />
+            </a>
+
+
+        <a href="https://img.youtube.com/watch?v=p0WTAyqoUz8">
+                <img src="https://img.youtube.com/vi/Cf43hF4fZH4/maxresdefault.jpg" />
+                </a>
+
+
+        <a href="https://img.youtube.com/watch?v=p0WTAyqoUz8">
+        <img src="https://img.youtube.com/vi/S8JDoKrnz54/maxresdefault.jpg" />
+                    </a>
+
+
+        <a href="https://img.youtube.com/watch?v=p0WTAyqoUz8">
+                        <img src="https://img.youtube.com/vi/kKLkRqJzgFY/maxresdefault.jpg" />
+    <a href="https://img.youtube.com/watch?v=p0WTAyqoUz8">
+                            <img src="https://img.youtube.com/vi/otIDl-RsWIY/maxresdefault.jpg" />
+                            </a>
+
+
+         <a href="https://img.youtube.com/watch?v=p0WTAyqoUz8">
+                                <img src="https://img.youtube.com/vi/pc0z_AN9zfE/maxresdefault.jpg" />
+                                </a>
+
+
+         <a href="https://img.youtube.com/watch?v=p0WTAyqoUz8">
+                                    <img src="https://img.youtube.com/vi/YRf0vclah3Y/maxresdefault.jpg" />
+                                    </a>
+   <a href="https://img.youtube.com/watch?v=p0WTAyqoUz8">
+                                        <img src="https://img.youtube.com/vi/WgeGRyBMu98/maxresdefault.jpg" />
+                                        </a>
+    </div>
+
+
+</section>
+
+
+
+
+</html>
+
+
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Bebas Neue", sans-serif;
+    margin-bottom: 100px;
+
+
+}
+
+
+header {
+    border-bottom: solid 2px rgb(9, 235, 243);
+    padding: 20px;
+    font-size:20px;
+    color: rgb(235, 201, 7);
+}
+
+
+.chamada {
+    background: rgba(56, 6, 238, 0.36);
+    padding-bottom: 25px;
+    padding-top: 10px;
+    display:flex;
+    justify-content: center;
+}
+
+
+.chamada-texto {
+
+
+    margin-right: 5%;
+}
+h1{
+    font-size:70px;
+}
+p {
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px
+}
+.categoria {
+    padding-left:20xp;
+    padding-right:20xp;
+    margin: 50px;
+}
+
+
+.categoria-videos img {
+
+
+    opacity: 0.5;
+    height: 100px;
+
+
+}
+
+
+.categoria-videos img:hover {
+
+
+    opacity: 1.0;
+    border: 1px solid  rgb(196, 248, 5);
+}
+
+
+.categoria h2 {
+    color:blueviolet;
+}
+.chamada-texto h1 {
+    color: rgb(8, 252, 20);
+
+
+}
